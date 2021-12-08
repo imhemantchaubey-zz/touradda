@@ -5,3 +5,45 @@
 @import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+*{
+  font-family: 'Roboto Slab', serif;
+}
+
+header{
+  padding-top: 0.5rem;
+}
+
+#ta{
+  float: left;
+  text-decoration: none;
+  color: rgb(255, 240, 32);
+  font-size: 2rem;
+  font-family: 'Satisfy', cursive;
+}
+
+.biggerfont{
+  font-size: 1.8rem;
+  color: rgb(255, 183, 183);
+  text-align: center;
+}
+
+.biggestfont{
+  font-size: 5rem;
+  color: white;
+  text-align: center;
+}
+
+#touradda{
+  background: url(https://i0.wp.com/thestrongtraveller.com/wp-content/uploads/2020/12/bhangadh-fort.jpg?fit=1920%2C1280&ssl=1);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 100vh;
+}
+
+.nv{
+  padding: 1rem;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
